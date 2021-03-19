@@ -13,3 +13,4 @@ Now that the moving objects have more solid highlighted regions we move on to co
 
 I first get all the contours in the image then add some conditions to get only the required ones(isLeft(x1,y1,x2,y2,x,y)), where isLeft function basically checks if a point lies to the left of a line.
 
+For custom input run the last cell and enter the correct file path where the video is present, enter the 4 coordinates(space seperated) for the line and the frame number.
