@@ -17,13 +17,18 @@ pip install matplotlib
 pip install numpy
 ```
 # Input Format
+
 **Unique Frame**
 path
+
 x1 y1 x2 y2
+
 frame_number
 
 **Entire Video**
+
 path
+
 x1 y1 x2 y2
 
 # Approach
