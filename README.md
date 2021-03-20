@@ -4,7 +4,7 @@
 # File Structure
 ├── Frames 
 
-├── model1.ipynb 
+├── model.ipynb 
 
 ├── README.md 
 
@@ -31,6 +31,8 @@ frame_number
 path
 
 x1 y1 x2 y2
+
+**Once "bounded function" is called it creates a new image file in the same directory with final contours.**
 
 # Approach
 Counting number of vehicles to the left of line in an image.
