@@ -1,4 +1,23 @@
 # Vehical-Detection
+
+
+# File Structure
+├── Frames 
+
+├── model.ipynb 
+
+├── README.md 
+
+# Commands
+
+**Setup:**
+```
+pip install opencv-python
+pip install matplotlib
+pip install numpy
+```
+
+
 Counting number of vehicles to the left of line in an image.
 
 
