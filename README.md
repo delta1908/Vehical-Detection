@@ -19,6 +19,7 @@ pip install numpy
 # Input Format
 
 **Unique Frame**
+
 path
 
 x1 y1 x2 y2
