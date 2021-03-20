@@ -18,7 +18,7 @@ pip install numpy
 ```
 # Input Format
 
-**Unique Frame**
+**Unique Frame:**
 
 path
 
@@ -26,7 +26,7 @@ x1 y1 x2 y2
 
 frame_number
 
-**Entire Video**
+**Entire Video:**
 
 path
 
