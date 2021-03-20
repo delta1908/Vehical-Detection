@@ -4,8 +4,6 @@
 # File Structure
 ├── Frames 
 
-├── Frames_Extracter.py 
-
 ├── model.ipynb 
 
 ├── README.md 
