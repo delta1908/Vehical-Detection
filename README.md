@@ -4,7 +4,7 @@
 # File Structure
 ├── Frames 
 
-├── model.ipynb 
+├── model1.ipynb 
 
 ├── README.md 
 
@@ -16,6 +16,15 @@ pip install opencv-python
 pip install matplotlib
 pip install numpy
 ```
+# Input Format
+**Unique Frame**
+path
+x1 y1 x2 y2
+frame_number
+
+**Entire Video**
+path
+x1 y1 x2 y2
 
 # Approach
 Counting number of vehicles to the left of line in an image.
