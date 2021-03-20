@@ -8,6 +8,8 @@ Original file is located at
 
 Extracting Frames from video
 """
+import os
+import cv2 # opencv library
 
 def FrameCapture(path): 
     os.mkdir("Frames")
